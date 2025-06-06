@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="CourseManagementSystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/CourseManagementSystem</output-path>
+    <root id="root">
+      <element id="artifact" artifact-name="webapplication" />
+    </root>
+  </artifact>
+</component>
