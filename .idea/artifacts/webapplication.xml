@@ -1,6 +1,8 @@
 <component name="ArtifactManager">
-  <artifact build-on-make="true" name="webapplication">
+  <artifact type="javafx" build-on-make="true" name="webapplication">
     <output-path>$PROJECT_DIR$/WebApp</output-path>
-    <root id="root" />
+    <root id="root">
+      <element id="module-output" name="CourseManagementSystem" />
+    </root>
   </artifact>
 </component>
